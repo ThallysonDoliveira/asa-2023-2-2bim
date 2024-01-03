@@ -4,8 +4,6 @@ site_author: Nome e Sobrenome
 theme:
   name: readthedocs
 
-theme:
-  name: material
-  language: pt
+
 
   
